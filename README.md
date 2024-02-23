@@ -6,6 +6,6 @@ The `main` branch contains the boilerplate, while the `final` branch contains th
 
 ## How to use
 
-1. `yarn` to install the dependencies
-2. `yarn storybook` to start the Storybook server
-3. `yarn test --watch` to start the test runner
+1. `npm` to install the dependencies
+2. `npm storybook` to start the Storybook server
+3. `npm test --watch` to start the test runner
